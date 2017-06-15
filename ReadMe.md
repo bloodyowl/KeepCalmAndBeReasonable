@@ -2,7 +2,7 @@
 
 > A design for a nice Reason tee
 
-![](preview/KeepOcaml@3x.png)
+![](./preview/KeepOCaml@3x.png)
 
 The goal of this repository is that you can print you own tees or posters.
 
